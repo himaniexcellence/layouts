@@ -1,0 +1,26 @@
+#top{
+	width : 100%;
+	float: center;
+}
+#topleft{
+	width : 477px;
+	float: left;
+	padding-left : 22px;  
+}
+#topright{
+	width : 440px;
+	float: right;
+	padding-right: 22px;
+}
+a{
+	color : #007BAF;
+	font-size : 15px;
+	float : right;
+	letter-spacing : -1px;
+}
+#right{
+	float: right;
+}
+input[type=text]{
+	outline : #007BAF;
+}
